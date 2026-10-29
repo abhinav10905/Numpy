@@ -5,3 +5,6 @@ arr
 
 a=[1,2,3.5,"hello"]
 np.array(a) #CONVERTS ALL VALUES INTO STRING DATATYPE
+
+a=[1,2,3.5]
+np.array(a) #CONVERTS ALL VALUES INTO FLOAT DATATYPE
