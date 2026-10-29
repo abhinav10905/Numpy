@@ -14,3 +14,6 @@ np.array(l)
 
 a=np.arange(1,11) #GENERATING AN ARRAY
 a
+
+b=np.arange(1,11,2) #GENERATING AN ARRAY USING SREP VALUE
+b
