@@ -11,3 +11,6 @@ np.array(a) #CONVERTS ALL VALUES INTO FLOAT DATATYPE
 
 l=[[1,2],[3,4],[5,6]] #FORMING AN MATRIX USING NUMPY
 np.array(l)
+
+a=np.arange(1,11) #GENERATING AN ARRAY
+a
