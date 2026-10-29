@@ -1,6 +1,6 @@
 # Numpy
 
-#README intro:
+# README intro:
 
 **NumPy Practice**
 
